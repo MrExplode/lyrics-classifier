@@ -1,1 +1,8 @@
 transformers
+jupyter
+datasets
+evaluate
+aiohttp==3.9.0b1
+matplotlib
+numpy
+pandas
