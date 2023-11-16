@@ -2,6 +2,7 @@ transformers
 jupyter
 datasets
 evaluate
+scikit-learn
 matplotlib
 numpy
 pandas
