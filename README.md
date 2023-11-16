@@ -1,6 +1,6 @@
 # lyrics classifier
 
-Doing some stuff with song lyrics
+Classify song genre based on lyrics.
 
 ## License
 ```
